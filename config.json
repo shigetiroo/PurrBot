@@ -1,0 +1,14 @@
+{
+    "token" : "",
+
+    "status" : "PurrBot's API...",
+
+    "restart_message" : "Restarting Bot...",
+
+    "shutdown_message" : "Shutting down Bot...",
+    
+
+    "prefix_settings" : {
+        "prefix" : "h.", 
+        "use_space" : false}
+}
